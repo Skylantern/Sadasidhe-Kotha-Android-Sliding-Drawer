@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sadasidhe Kotha</string>
+    <string name="action_settings">About Us</string>
+    <string name="hello_world">Hello world!</string>
+  <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+
+    
+    
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item >প্রথম পাতা </item>
+        
+        <item >গ্লানিমুক্তির বাংলাদেশ</item>
+        <item >প্রতিবন্ধী নই,মানুষ</item>
+        <item >আমার দেখা গণজাগরণ মঞ্চ </item>
+        <item >ভাবনা ও দুর্ভাবনা</item>
+        <item >অন্য রকম ফেব্রুয়ারি</item>
+        
+        <item >মিথ্যা বলার অধিকার</item>
+        <item >প্রিয় সজল</item>
+        <item >সাম্প্রতিক ভাবনা</item>        
+        <item >আমাদের গণিত অলিম্পিয়াড</item>
+        <item >বিশ্ববিদ্যালয়ের ভর্তি পরীক্ষা</item>
+        
+        <item >মানুষের ভালোবাসা অসাধারণ বিষয়</item>
+        <item >তোমরা যারা শিবির করো</item>
+        <item >দুঃখ,লজ্জা এবং ক্ষোভ</item>
+        <item >বিশ্বজিতের লাল শার্ট</item>
+        <item >একাত্তরের দ্বিতীয় পাঠ</item>
+        
+        <item >যশোর বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়ে</item>        
+        <item >এই লজ্জা কোথায় রাখি</item>
+        <item >আমেরিকা নিয়ে এক ডজন</item>
+        <item >অস্ট্রেলিয়ায় ঝটিকা সফর</item>
+        <item >সরকারের কাছে অনুরোধ</item>
+        
+        <item >ডিসেম্বরের প্রথম প্রহর</item>
+        <item >বিষণ্ণ বাংলাদেশ</item>
+        <item >রাজনীতি নিয়ে আমার ভাবনা</item>
+        <item >স্বপ্নের দেশটাকে দেখতে পাচ্ছি</item>
+        <item >এক দুই এবং তিন</item>
+        
+        <item >তরুন প্রজন্মের কাছে প্রার্থনা</item>
+        <item >বই, বইমেলা এবং অন্যান্য</item>
+        <item >বইমেলার টুকিটাকি</item>        
+        <item >একটি ছোট প্রশ্ন</item>
+        <item >আমার বড় ভাই হুমায়ূন আহমেদ</item>
+        
+        <item >দুঃখটাকে ভাগাভাগি করি </item>
+        <item >বইমেলার অন্যপিঠ</item>
+        <item >বাংলাদেশে পারমাণবিক শক্তি কেন্দ্র</item>
+        <item >পাট-জিনোমের স্বপ্নযাত্রা</item>
+        <item >অটোগ্রাফ</item>
+        
+        <item >মাত্র এক হাজার পিএইচডি</item>
+        
+      
+        
+        
+        
+    </string-array>
+    
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_pages</item>
+        
+    </array>
+    
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="glanimuktirbangladesh"/>
+
+</resources>
